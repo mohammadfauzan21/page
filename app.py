@@ -14,7 +14,7 @@ with col4:
 with col5:
     st.write("[Instagram](https://instagram.com/fznnadt?igshid=YmMyMTA2M2Y=)")
 
-st.text ("Hallo semuanya. Perkenalkan nama saya dosun. Ini adalah webpage pertama saya. Terima kasih sudah membuka webpage ini. Saat ini masih kosong. Nanti isinya bakal menarik, lho.")
+st.write ("Hallo semuanya. Perkenalkan nama saya dosun. Ini adalah webpage pertama saya. Terima kasih sudah membuka webpage ini. Saat ini masih kosong. Nanti isinya bakal menarik, lho.")
 st.text ("Nantikan yaa!. See you.")
 st.text (''' ''')
 st.text (''' ''')
